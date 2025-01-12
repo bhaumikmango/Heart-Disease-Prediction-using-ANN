@@ -73,5 +73,5 @@ After training, the model can be evaluated on the test set using the `evaluate()
 - **License**: Specifies that the project is licensed under the MIT License.
 
 ## To clone the repository run on CMD :
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone https://github.com/bhaumikmango/Heart-Disease-Prediction-using-ANN
 cd heart-disease-prediction
